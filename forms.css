@@ -1,0 +1,8 @@
+form{
+    border: 5px solid gray;
+    width: 70%;
+    padding: 27px;
+    margin: 100px auto;
+    color:white;
+    background: linear-gradient(180deg,orange,blue);
+}
